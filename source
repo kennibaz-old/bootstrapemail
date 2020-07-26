@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+ <head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <link rel="stylesheet" media="all" href="/assets/application-mailer-dbc5154d3c4160e8fa7ef52fa740fa402760c39b5d22c8f6d64ad5999499d263.css" />
+   <style><!-- Add custom styles that you want inlined here --></style>
+ </head>
+ <!-- Edit the code below this line -->
+ <body class="bg-light">
+<preview>Thank you for booking with XRELO!</preview>
+<div class="container">
+  <img class="mx-auto mt-4 mb-3" width="100" height="100" src="https://baz-baz-baz.s3.amazonaws.com/xrelo-brand.png" />
+
+  <div class="card mb-4" style="border-top: 5px solid #ff00bf;">
+    <div class="card-body">
+      <img class="mx-auto" width="100" height="100" src="https://baz-baz-baz.s3.amazonaws.com/xrelo-brand.png" />
+      <h4 class="text-center">Thanks for booking with us!</h4>
+      <h5 class="text-muted text-center">Your quote for Audi A4 is ready</h5>
+
+      <hr/>
+
+      <h5 class="text-center"><strong>Quote Details</strong></h5>
+      <table class="table">
+        <tbody>
+          <tr>
+            <th style="border-top: 0;">Pickup</th>
+            <td style="border-top: 0;" class="text-right">33781 PInellas Park</td>
+          </tr>
+          <tr>
+            <th style="border-top: 0;">Delivery</th>
+            <td style="border-top: 0;" class="text-right">30009 Hallandle Beach</td>
+          </tr>
+          <tr>
+            <th style="border-top: 0;">Vehicle</th>
+            <td style="border-top: 0;" class="text-right">2014 Audi A4</td>
+          </tr>
+          <tr>
+            <th style="border-top: 0;">Transport type</th>
+            <td style="border-top: 0;" class="text-right">Open</td>
+          </tr>
+          <tr>
+            <th style="border-top: 0;"> <h4>Price</h4>
+              </th>
+           
+            <td>
+              <h4 class="text-right"><strong>$11.87</strong></h4>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+      
+    </div>
+  </div>
+
+  <div class="card w-100 mb-4">
+    <div class="card-body">
+      <img width="50" height="50" class="mx-auto" src="https://baz-baz-baz.s3.amazonaws.com/tow.png">
+      <h4 class="text-center">Make your car relocation easy</h4>
+      <p class="text-center">We will deliver your car in fast and inexpensive way.</p>
+      <a class="btn btn-primary btn-lg mx-auto mt-2" href="https://lyft.com">Book Now</a>
+    </div>
+  </div>
+
+  
+
+  <table class="table-unstyled text-muted mb-4">
+    <tbody>
+      <tr>
+        <td>© XRELO 2020</td>
+        <td>
+          <img class="float-right pl-2" width="20" height="20" src="https://s3.amazonaws.com/lyft.zimride.com/images/emails/social/v2/facebook@2x.png"/>
+          <img class="float-right pl-2" width="20" height="20" src="https://s3.amazonaws.com/lyft.zimride.com/images/emails/social/v2/twitter@2x.png"/>
+          <img class="float-right" width="20" height="20" src="https://s3.amazonaws.com/lyft.zimride.com/images/emails/social/v2/instagram@2x.png"/>
+        </td>
+      </tr>
+      <tr>
+        <td>136 Forum Dr Ste 4</td>
+        <td class="text-right">Ship with us</td>
+      </tr>
+      <tr>
+        <td>Columbia, SC 29229</td>
+        <td class="text-right">
+          <a href="http://xrelo.com">www.xrelo.com</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+ </body>
+</html>
